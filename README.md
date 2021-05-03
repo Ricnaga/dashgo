@@ -4,10 +4,12 @@
 
 ### <div align="center"> Conteúdo de curso criado pela equipe Rocketseat abordando conceitos sobre: </div>
 
-#### 1. ReactJS e seus conceitos de hooks
-#### 2. NextJS e seus hooks
-#### 3. Chakra UI e seus conceitos de interface declarativa
-#### 4. divisão da páginas em components
+#### 1. ReactJS e NextJS: hooks
+#### 1. ReactJS: react query
+#### 2. Chakra UI: conceitos de interface declarativa
+#### 3. React e Next: divisão da páginas em components
+#### 4. MirageJs: utilização de api fake
+#### 5. MirageJs: criação de dados em massa
 
 ## <div align="center"> Sumário </div>
 <!--ts-->
