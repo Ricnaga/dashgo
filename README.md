@@ -7,7 +7,6 @@
 
 ### <div align="center"> Conteúdo de curso criado pela equipe Rocketseat abordando conceitos sobre: </div>
 
-- ReactJS: react query
 - ReactJS e NextJS: Hooks | Components
 - React-query: Manipular dados com mutation e queries
 - React-hook-forms:Validações de campos de formulário
