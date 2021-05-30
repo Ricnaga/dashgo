@@ -1,15 +1,18 @@
+<img src="cover.jpg" alt="capa" />
+<img src="https://img.shields.io/github/license/Ricnaga/dashgo?style=for-the-badge"/> 
+
 # <div align="center">dashgo</div>
 
 #### <div align="right">- Projeto Finalizado <div>
 
 ### <div align="center"> Conteúdo de curso criado pela equipe Rocketseat abordando conceitos sobre: </div>
 
-#### 1. ReactJS e NextJS: hooks
-#### 1. ReactJS: react query
-#### 2. Chakra UI: conceitos de interface declarativa
-#### 3. React e Next: divisão da páginas em components
-#### 4. MirageJs: utilização de api fake
-#### 5. MirageJs: criação de dados em massa
+- ReactJS: react query
+- ReactJS e NextJS: Hooks | Components
+- React-query: Manipular dados com mutation e queries
+- React-hook-forms:Validações de campos de formulário
+- Chakra UI: interface declarativa
+- MirageJs: Fake API e criação de dados em massa
 
 ## <div align="center"> Sumário </div>
 <!--ts-->
@@ -49,6 +52,8 @@ $ yarn dev (caso não utilize o yarn: npm run dev)
 - [React JS](https://pt-br.reactjs.org/)
 - [Next JS](https://nextjs.org/)
 - [Chakra UI](https://chakra-ui.com/)
+- [React Query](https://react-query.tanstack.com/)
+- [React Hook Form](https://react-hook-form.com/)
 
 
 ## <div align="center">Autor</div>
@@ -57,6 +62,3 @@ Gostou? tem alguma sugestão de melhoria? por favor, entre em contato e ja aprov
 <a href="https://www.linkedin.com/in/ricardo-nagatomy-56553254"><img src="https://img.shields.io/badge/-RicardoNaga-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <a href="https://app.rocketseat.com.br/me/ricardo-nagatomy-08130"><img src="https://img.shields.io/badge/-Rocketseat-000?style=flat-square&logo=&logoColor=white"></a>
 </div>
-
-#
-<div align="center"> <img src="https://img.shields.io/github/license/Ricnaga/dashgo?style=for-the-badge"/> </div>
